@@ -1,0 +1,47 @@
+{
+    "contactData":{
+        "adress": "555 Zang Street, Suite 300\nLakewood, CO 80228",
+        "cateringLink": "www.ebcatering.com",
+        "phoneNumber": "1-800-BAGELME"
+    },
+    "rightBoxInfo":{
+        "customerFeedbackLink":"Customer Feedback",
+        "customerFeedbackTitle":"Einstein Bros. Bagels | Customer Feedback",
+        "FAQsLink":"FAQs",
+        "FAQsTitle":"Einstein Bros. Bagels | FAQs",
+        "ContactInfoLink":"Contact Information",
+        "contactInfoTitle":"Einstein Bros. Bagels | Contact Information",
+        "employmentLink":"Employment",
+        "employmentTitle":"Coffee And Bagel Brands - Careers Site"
+    },
+    "customerFeedbackFormData":{
+        "firstNameText": "First Name",
+        "lastNameText": "Last Name",
+        "emailText": "Email",
+        "phoneText": "Phone",
+        "locationText": "What location do you want to talk about?",
+        "dropdownText": "Please select the nature of your contact",
+        "commentsText": "Comments"
+    },
+    "dropdownActualList":
+        {
+           "actualList":[ 
+                "--- Select One ---", 
+                "Compliment",
+                "Complaint",
+                "Question",
+                "Suggestion",
+                "Employment",
+                "Nutritional/Allergen Related",
+                "New Store Locations"]
+           },
+    "customerFeedbackSubmitData":{
+        "firstName": "Mike",
+        "lastName": "Smith",
+        "email":"mikeSmithCap@gmail.com",
+        "phone":"2753458910",
+        "location":"Virginia",
+        "comments":"Those bagels that I taste was amazing tasty"
+    }
+
+}

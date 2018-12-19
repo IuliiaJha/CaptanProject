@@ -1,0 +1,17 @@
+
+{
+    "customerInfo":[
+    {
+        "deliDate": "11-22-2018",
+        "deliTime": "12001215PM",
+        "guests": "4",
+        "address":"Majestic Lane", 
+        "suite": "4051", 
+        "city": "Fairfax", 
+        "state": "Virginia", 
+        "Zipcode": "22033", 
+        "mail": "mikeSmithCap@gmail.com",
+        "pw": "6ffTf3K0"
+    }
+]
+}

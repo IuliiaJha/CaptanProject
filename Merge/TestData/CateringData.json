@@ -1,0 +1,24 @@
+{
+    "customers":[
+        {
+            "fName": "Mike",
+            "lName": "Smith",
+            "email": "mikeSmithCap@gmail.com",
+            "password":"6ffTf3K0"
+        },
+        {
+            "fName": "James",
+            "lName": "Bond",
+            "email": "jamesBondCap",
+            "password":"6ffTf3K0"
+        }
+    ],
+        
+    "locators":{
+        "homePge":{
+            "bankManagerLogin": "manager()"
+         }
+    } 
+        
+        
+}

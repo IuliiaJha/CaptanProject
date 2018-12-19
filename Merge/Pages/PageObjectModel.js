@@ -1,0 +1,24 @@
+require('../Utilities/CustomLocators.js');
+var PageObjectModelMenu=function(){
+this.menuButton=$('#link-menu');
+this.mainImage=$('.hero-img-desk');
+this.NewOnOurMenuLink=$('.active>a');
+this.NewOnOurMenuText=$('h1.ng-binding.ng-scope'); 
+this.BagelsShmearLink=$('.list-inline.catlist>:nth-child(2)');
+this.BagelsShmearText=$('h1.ng-binding.ng-scope');
+this.BreakfastLink=$('.list-inline.catlist>:nth-child(3)');
+this.BreakfastText=$('h1.ng-binding.ng-scope');
+this.LunchLink=$('.list-inline.catlist>:nth-child(4)');
+this.LunchText=$('h1.ng-binding.ng-scope');
+this.SweetSnacksLink=$('.list-inline.catlist>:nth-child(5)');
+this.SweetSnacksText=$('h1.ng-binding.ng-scope');
+this.BeveragesLink=$('.list-inline.catlist>:nth-child(6)');
+this.BeveragesText=$('h1.ng-scope');
+this.CateringLink=$('.list-inline.catlist>:nth-child(7)>a');
+this.CateringNewPage=$('.c-utility-nav__list>:nth-child(2) a');
+this.DownloadMenusInfoBtn=element(by.ngClick('toggleDownloads()'));
+this.dropdownList=$$('.list-unstyled>li>a');
+this.SecondHeaderText=$$('.menu-cat-title.ng-binding.ng-scope');
+this.SecondHeaderImage=$$('.menu-tile-inner');
+};
+module.exports=new PageObjectModelMenu();

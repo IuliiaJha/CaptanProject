@@ -1,0 +1,28 @@
+{
+    "customerInfo":[
+        {
+            "deliDate": "11-22-2018",
+            "deliTime": "12001215PM",
+            "guests": "4",
+            "address":"Majestic Lane", 
+            "suite": "4051", 
+            "city": "Fairfax", 
+            "state": "Virginia", 
+            "Zipcode": "22033", 
+            "mail": "mikeSmithCap@gmail.com",
+            "pw": "6ffTf3K0"
+        },
+        {
+            "deliDate": "11-25-2018",
+            "deliTime": "11001115PM",
+            "guests": "48",
+            "address":"Zittiri pittiri", 
+            "suite": "D", 
+            "city": "Fairfax", 
+            "state": "Virginia", 
+            "Zipcode": "22033" , 
+            "mail": "mikeSmithCap@gmail.com",
+            "pw": "6ffTf3K0"
+        }
+    ]
+    }
